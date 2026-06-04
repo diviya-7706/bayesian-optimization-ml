@@ -1,7 +1,7 @@
 # # Bayesian Optimization for ML Models 
 
 ##  Live Demo
-(https://huggingface.co/spaces/diviya7706/bayesian-optimization)
+(https://bayesian-optimization-ml-diviya-7706.streamlit.app/)
 ---
 
 ## About the Project
@@ -147,6 +147,7 @@ This is smarter and faster than trying all combinations manually.
 **Diviya Dharshini**
 - Hugging Face: [diviya7706](https://huggingface.co/diviya7706)
 - GitHub: [diviya7706](https://github.com/diviya7706)
+- Streamlit : https://bayesian-optimization-ml-diviya-7706.streamlit.app/
 
 ---
 
